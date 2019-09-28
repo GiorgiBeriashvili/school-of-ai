@@ -1,5 +1,9 @@
 # School of AI
 
+[![LICENSE](https://img.shields.io/badge/License-MIT_or_Apache_2.0-blue.svg)](https://github.com/GiorgiBeriashvili/school-of-ai#License "Project's LICENSE section")
+
+## Description
+
 school-of-ai stores the data regarding the School of AI course.
 
 ---
