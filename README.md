@@ -1,2 +1,2 @@
 # school-of-ai
-This repository stores data regarding the School of AI course.
+This repository stores the data regarding the School of AI course.
