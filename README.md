@@ -4,7 +4,7 @@ school-of-ai stores the data regarding the School of AI course.
 
 ---
 
-# Learning Material
+## Learning Material
 
 Visit the [Wiki](https://github.com/GiorgiBeriashvili/school-of-ai/wiki "School of AI's wiki") section to find more information regarding the learning material used throughout the course.
 
