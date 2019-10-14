@@ -4,7 +4,11 @@
 
 ## Description
 
-school-of-ai stores the data regarding the School of AI course.
+school-of-ai stores the data regarding [MaxinAI](https://maxinai.com)'s [School of AI](https://github.com/MaxinAI/school-of-ai "School of AI's official repository") course.
+
+This repository can be seen as my own personal take in the journey to complete the course successfully while archiving it for future's sake.
+
+I have no authority over the course itself and I do not guarantee that the material that will be present in this repository will be up-to-date and precise.
 
 ---
 
