@@ -4,7 +4,7 @@
 
 ## Description
 
-school-of-ai stores the data regarding [MaxinAI](https://maxinai.com)'s [School of AI](https://github.com/MaxinAI/school-of-ai "School of AI's official repository") course.
+school-of-ai stores the data regarding [MaxinAI](https://maxinai.com)'s [School of AI](https://github.com/MaxinAI/school-of-ai "School of AI's official repository") course, which is also being replicated locally on this repository inside the `origin` submodule.
 
 This repository can be seen as my own personal take in the journey to complete the course successfully while archiving it for future's sake.
 
